@@ -14,10 +14,10 @@
 #define LABEL_MESSAGE_FONT_SIZE                 13.0f
 
 #define IMAGE_VIEW_ICON_CORNER_RADIUS           3.0f
-#define IMAGE_VIEW_ICON_FRAME                   CGRectMake(15.0f, 8.0f, 20.0f, 20.0f)
-#define LABEL_TITLE_FRAME                       CGRectMake(45.0f, 3.0f, [[UIScreen mainScreen] bounds].size.width - 45.0f, 26.0f)
+#define IMAGE_VIEW_ICON_FRAME                   CGRectMake(15.0f, 8.0f, 40.0f, 40.0f)
+#define LABEL_TITLE_FRAME                       CGRectMake(65.0f, 5.0f, [[UIScreen mainScreen] bounds].size.width - 65.0f, 26.0f)
 #define LABEL_MESSAGE_FRAME_HEIGHT              35.0f
-#define LABEL_MESSAGE_FRAME                     CGRectMake(45.0f, 25.0f, [[UIScreen mainScreen] bounds].size.width - 45.0f, LABEL_MESSAGE_FRAME_HEIGHT)
+#define LABEL_MESSAGE_FRAME                     CGRectMake(65.0f, 27.0f, [[UIScreen mainScreen] bounds].size.width - 65.0f, LABEL_MESSAGE_FRAME_HEIGHT)
 
 #define NOTIFICATION_VIEW_SHOWING_DURATION                  7.0f    /// second(s)
 #define NOTIFICATION_VIEW_SHOWING_ANIMATION_TIME            0.5f    /// second(s)
